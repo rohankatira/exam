@@ -1,0 +1,24 @@
+.footer-main-container{
+    display: flex;
+    justify-content: space-around;
+    background-color: #1A4D2E;
+    color:#E8DFCA ;
+}
+#logo{
+    width: 25%;
+}
+#logo>a{
+    text-decoration: none;
+    font-size: 2rem;
+    color: #E8DFCA;
+}
+button{
+    font-size: 15px;
+    background-color: #4F6F52;
+    color: #E8DFCA;
+}
+.icon{
+    font-size: 16px;
+    display: flex;
+    gap: 15px;
+}

@@ -1,0 +1,38 @@
+.Testimonial{
+    padding: 58px 10px 9px;
+    margin: 50px 0px;
+    border: 1px solid #FFC55A;
+    position: relative;
+    border-radius: 5px;
+    width: 25%;
+    margin-left: 50px;
+  }
+  .Testimonial>.pic{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 5px solid #FC4100;
+    overflow: hidden;
+    margin: 0 auto;
+    position: absolute;
+    top: -50px;
+    left: 0;
+    right: 0;
+  }
+  .pic>img{
+    width: 100%;
+    height: auto;
+  }
+  .Testimonial>p{
+    font-size: 16px;
+    line-height: 18px;
+    text-align: center;
+  }
+  .Testimonial>h6{
+    font-size: 20px;
+    line-height: 27px;
+    color:#00215E;
+    text-align: center;
+    margin: 0;
+  }
+  
